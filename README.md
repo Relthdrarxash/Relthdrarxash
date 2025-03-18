@@ -24,3 +24,5 @@ Passionné de cybersécurité et de CTF, je participe régulièrement à des com
 ## Articles 
 
 [Tutoriel Infra-as-Code sur IT-Connect](https://www.it-connect.fr/vmware-vsphere-comment-utiliser-packer-pour-creer-un-modele-de-vm-windows-server-2022/)
+
+![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Tempest.png)
